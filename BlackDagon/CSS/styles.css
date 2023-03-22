@@ -1,0 +1,24 @@
+main{
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 5px 40px;
+    border-radius: 10px;
+}
+
+body{
+    text-align: center;
+    background-image: url("../img/arena.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.video{
+    margin: 0px;
+    text-align: center;
+}
+
+.logo{
+    margin: 0;
+    text-align: center;
+    
+}
